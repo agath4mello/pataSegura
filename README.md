@@ -11,19 +11,19 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 O **PataSegura** é um sistema de monitoramento inteligente para animais de estimação, desenvolvido para auxiliar donos de pets a cuidarem melhor da saúde e da rotina de seus companheiros. A aplicação permite cadastrar usuários e seus animais, registrar vacinas e consultas, configurar lembretes e receber alertas personalizados em um painel intuitivo. Com isso, garante mais organização, bem-estar e tranquilidade para tutores que desejam oferecer o melhor cuidado aos seus pets.
 
 ## Introdução
-**Contextualização do Problema**
-No mundo atual, cada vez mais os animais de estimação são vistos como membros da família. Porém, muitos tutores ainda enfrentam dificuldades para acompanhar a saúde e a rotina de seus pets, como controle de vacinas, consultas, medicamentos e cuidados preventivos. Essa falta de organização pode resultar em riscos à saúde dos animais e em preocupações constantes para os donos. Surge, então, a necessidade de uma solução prática, digital e acessível que ajude a transformar cuidado em tranquilidade.
+**Contextualização do Problema**: No mundo atual, cada vez mais os animais de estimação são vistos como membros da família. Porém, muitos tutores ainda enfrentam dificuldades para acompanhar a saúde e a rotina de seus pets, como controle de vacinas, consultas, medicamentos e cuidados preventivos. Essa falta de organização pode resultar em riscos à saúde dos animais e em preocupações constantes para os donos. Surge, então, a necessidade de uma solução prática, digital e acessível que ajude a transformar cuidado em tranquilidade.
 
-**Objetivo em Uma Frase**
-Levar aos tutores uma plataforma inteligente que simplifica o monitoramento da saúde e do bem-estar dos pets, garantindo mais segurança e qualidade de vida.
+**Objetivo em Uma Frase**: Levar aos tutores uma plataforma inteligente que simplifica o monitoramento da saúde e do bem-estar dos pets, garantindo mais segurança e qualidade de vida.
 
-**Experiência para o Usuário**
-O sistema deve transmitir confiança, praticidade e carinho, funcionando como um “assistente pessoal para pets”. O usuário terá uma experiência intuitiva, com lembretes personalizados e dashboards claros, sentindo-se mais seguro ao cuidar de seu animal e mais próximo dele.
+**Experiência para o Usuário**: O sistema deve transmitir confiança, praticidade e carinho, funcionando como um “assistente pessoal para pets”. O usuário terá uma experiência intuitiva, com lembretes personalizados e dashboards claros, sentindo-se mais seguro ao cuidar de seu animal e mais próximo dele.
 
 ## Publico Alvo
 **Perfil Principal**:
+
 🐾 Donos de animais de estimação (cães, gatos e outros pets domésticos).
+
 🐾 Pessoas entre 20 e 50 anos, com rotina ativa e que valorizam tecnologia para facilitar o dia a dia.
+
 🐾 Tutores que enxergam os pets como parte da família e se preocupam com saúde, bem-estar e qualidade de vida dos animais.
 
 ### Personas
@@ -94,5 +94,6 @@ O sistema deve transmitir confiança, praticidade e carinho, funcionando como um
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
