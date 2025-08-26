@@ -28,12 +28,9 @@ O **PataSegura** é um sistema de monitoramento inteligente para animais de esti
 
 ### Personas
 
-- Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
-- Quais informações sobre o usuário o serviço ou poduto deve guardar?
+![Persona Primária](Personas/Personas1.png)
 
-  - Persona primaira ...
-  - Persona secundária ...
-  - Outras personas ...
+![Persona Secundária](Personas/Personas2.png)
 
 ### Mapa de empatia
 
