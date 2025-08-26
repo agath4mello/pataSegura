@@ -28,9 +28,9 @@ O **PataSegura** é um sistema de monitoramento inteligente para animais de esti
 
 ### Personas
 
-![Persona Primária](Personas/Personas1.png)
+![Persona Primária](Personas/Persona1.png)
 
-![Persona Secundária](Personas/Personas2.png)
+![Persona Secundária](Personas/Persona2.png)
 
 ### Mapa de empatia
 
