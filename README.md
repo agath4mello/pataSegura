@@ -28,15 +28,15 @@ O **PataSegura** é um sistema de monitoramento inteligente para animais de esti
 
 ### Personas
 
-![Persona Primária](Personas/persona1.png)
+![Persona Primária](readme_imagens/Personas/persona1.png)
 
-![Persona Secundária](Personas/persona2.png)
+![Persona Secundária](readme_imagens/Personas/persona2.png)
 
 ### Mapa de empatia
 
-![Mapa de empatia - Persona Primária](Mapa_Empatia/Persona_Primaria.png)
+![Mapa de empatia - Persona Primária](readme_imagens/Mapa_Empatia/Persona_Primaria.png)
 
-![Mapa de empatia - Persona Secundária](Mapa_Empatia/Persona_Secundaria.png)
+![Mapa de empatia - Persona Secundária](readme_imagens/Mapa_Empatia/Persona_Secundaria.png)
 
 ## Contexto de uso
 #### Ambiente de utilização
@@ -119,7 +119,7 @@ Perfil do Cuidador (Pet Sitter): Experiência com pets alheios, necessidades inf
 Preferências Tecnológicas: Uso anterior de apps pet health, preferências de notificações e dispositivos utilizados.
 Consentimento e Privacidade: Garantia de uso conforme LGPD, com explícito consentimento do participante.
 
-![Esboço do Questionário](Coleta_de_Dados/esbocoQuestionario.png)
+![Esboço do Questionário](readme_imagens/Coleta_de_Dados/esbocoQuestionario.png)
 
 ## Modelo de tarefas
 ## Design
@@ -137,7 +137,7 @@ Consentimento e Privacidade: Garantia de uso conforme LGPD, com explícito conse
 ### Prtotipação em alto nível (React)
 #### Avaliação heurística
 
-[^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 <!-- TODOs:
 - Add exemplos
