@@ -62,27 +62,33 @@ O serviço será utilizado principalmente em ambientes digitais (smartphone, tab
 
 #### Narrativa passo a passo
 **Primeiro contato**
+
 Mariana (tutora) encontra o app na loja ou por indicação.
 Baixa e instala o aplicativo.
 
 **Cadastro inicial**
+
 Cria perfil (nome, e-mail, senha).
 Registra seu pet (nome, espécie, raça, idade, peso, foto).
 
 **Configuração inicial**
+
 Adiciona dados de saúde do pet: vacinas já tomadas, última consulta, medicações.
 Define lembretes automáticos (ex.: “próxima vacina em setembro”).
 
 **Uso recorrente**
+
 Recebe notificações de lembrete (“consulta amanhã às 15h”).
 Consulta o histórico do pet quando vai ao veterinário.
 Atualiza informações após cada visita ou aplicação de vacina.
 
 **Interações secundárias**
+
 Compartilha acesso temporário com a pet sitter (Ana) para cuidar do pet.
 Veterinário pode visualizar histórico em PDF enviado pelo tutor.
 
 **Encerramento da tarefa**
+
 Usuário se sente seguro e organizado, com todo o histórico centralizado.
 Reforço positivo: sensação de que está cuidando melhor do pet.
 
@@ -99,7 +105,8 @@ Pontos negativos: Interface em inglês; pouco foco no acompanhamento médico e v
 Pontos positivos: Excelente para lembretes de vacinas e consultas; integração com clínicas veterinárias; histórico detalhado.
 Pontos negativos: Focado no mercado americano; depende da adesão de clínicas parceiras; pode ser complexo para tutores que só querem algo simples.
 
-Conclusão da Análise
+**Conclusão da Análise**
+
 Sim, existem plataformas similares (como PetDesk) que atendem a parte do mercado e funcionalidades, mas são muito regionais e complexas.
 Plataformas diferentes quanto ao serviço, mas que atendem indiretamente o mercado (como apps de saúde ou agendas digitais) já ajudam na organização, mas não são especializados em pets.
 Oportunidade: Criar uma solução simples, intuitiva e focada no acompanhamento da saúde e rotina dos pets, com funcionalidades centrais (alertas, histórico, compartilhamento), sem sobrecarregar o usuário com excesso de recursos ou foco apenas em vendas.
